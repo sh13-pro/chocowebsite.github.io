@@ -1,0 +1,39 @@
+.nav{
+ text-decoration: none;
+ font-family: 'Times New Roman', Times, serif;
+ background-color: black;
+ border-radius: 4px;
+ font-size: large;
+
+}
+.nav li{
+ float: right;
+ list-style: none; 
+ text-decoration: none;
+ margin: 13px 20px;
+}
+.nav ul{
+ overflow-x: auto ;
+}
+
+.nav li a{
+ padding: 3px 3px;
+ text-decoration: none;
+ color: white;
+}
+a:hover{
+ background-color: rgb(243, 129, 22);
+}
+
+.nav img{
+ position: absolute;
+ padding: 0px;
+ margin-bottom: 150px;
+}
+.head{
+ color: aliceblue;
+ text-align: center;
+ margin-top: -18px;
+ background-color: blueviolet;
+}
+
